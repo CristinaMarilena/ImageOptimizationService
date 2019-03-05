@@ -1,5 +1,7 @@
 # ImageOptimizationService
 
+This is a partial implementation of an Image service that resizes and optimizes images and stores them in Amazon S3 bucket.
+
 Code description will be provided here:
 
 ### The optimization process
@@ -58,7 +60,7 @@ A series of utility methods are being provided by classes in the *_utils_* direc
 
 I have implemented in a very basic form and MVC test for ImageController, an unit test for AmazonClientUtils class and a service mocking test for OptimazedImageService.
 
-The application fails to run because of invalid Amazon credentials but I do plan to make it fully functional because it's a great way for learning how to work with Amazon Services.
+The application fails to run because of invalid Amazon credentials but I do plan to make it fully functional because it's a great way for learning how to work with Amazon Services :)
 
 
 
