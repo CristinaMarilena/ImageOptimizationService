@@ -67,7 +67,7 @@ A series of utility methods are being provided by classes in the *_utils_* direc
 
 ### Tests
 
-I have implemented in a very basic form an MVC test for ImageController, an unit test for AmazonClientUtils class and a service mocking test for OptimazedImageService.
+I have implemented in a very basic form an MVC test for ImageController, an unit test for AmazonClientUtils class and a service mocking test for OptimizedImageService.
 
 The application fails to run because of invalid Amazon credentials but I do plan to make it fully functional because it's a great way for learning how to work with Amazon Services :)
 
